@@ -26,6 +26,7 @@ public class Practice01Test {
 	public void test3() {
 		System.out.println("From Tyss003");
 		System.out.println("welcome to TestYantra");
+		system.out.println("thnk u tetyantra");
 		
 	}
 	
